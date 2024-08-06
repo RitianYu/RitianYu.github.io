@@ -35,6 +35,8 @@ CONTACT
 ======
 **Github**: RitianYu
 
+**Email**: 15805598998@163.com | yu2365667746@gmail.com 
+
 **WeChat**: yh2365667746
 
 If you're interested in discussing topics related to 3D computer vision, particularly Image Matching, Structure from Motion (SfM), and 3D Gaussian Splatting, feel free to get in touch. I am always willing to share information and exchange ideas with others.
