@@ -23,13 +23,13 @@ NEWS
 
 **2023.10**: I was awarded the First Prize of Shandong University Research and Innovation Excellence Scholarship.
 
-**2023.10**: I was awarded the Second Class of Shandong University Academic Award Scholarship (3/24).
+**2023.10**: I was awarded the Second Class of Shandong University Academic Award Scholarship (**3/24**).
 
 **2023.7**: I started my research about 3D computer vision at Prof.Min's lab at Shandong Univeristy.
 
 **2023.1**: I got the First Prize of the 14th Mathematics Competition of Chinese College Students.
 
-**2022.10**: I was awarded First class of Shandong University Academic Award Scholarship (7/285).
+**2022.10**: I was awarded First class of Shandong University Academic Award Scholarship (**7/285**).
 
 CONTACT
 ======
