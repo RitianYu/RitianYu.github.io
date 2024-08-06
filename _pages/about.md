@@ -25,7 +25,7 @@ NEWS
 
 **2023.10**: I was awarded the Second Class of Shandong University Academic Award Scholarship (**3/24**).
 
-**2023.7**: I started my research about 3D computer vision at Prof.Min's lab at Shandong Univeristy.
+**2023.7**: I started my research about 3D computer vision at [Prof.Min's lab](https://faculty.sdu.edu.cn/minzhe/zh_CN/index.htm) at Shandong Univeristy.
 
 **2023.1**: I got the First Prize of the 14th Mathematics Competition of Chinese College Students.
 
@@ -37,5 +37,5 @@ CONTACT
 
 **WeChat**: yh2365667746
 
-If you're interested in discussing topics related to 3D computer vision, particularly Image Matching, Structure from Motion (SfM), and 3D Gaussian models, feel free to get in touch. I am always willing to share information and exchange ideas with others.
+If you're interested in discussing topics related to 3D computer vision, particularly Image Matching, Structure from Motion (SfM), and 3D Gaussian Splatting, feel free to get in touch. I am always willing to share information and exchange ideas with others.
 
