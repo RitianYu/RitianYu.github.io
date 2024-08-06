@@ -21,10 +21,10 @@ Skills
 
 Publications
 ======
-Bidirectional Partial-to-Full Non-Rigid Point Set Registration with Non-Overlapping Filtering (IROS 2024, oral)
+Bidirectional Partial-to-Full Non-Rigid Point Set Registration with Non-Overlapping Filtering (IROS 2024, oral) 
 Hao Yu, Zhe Min⋆, Mingyang Liu, Rui Song, Yibin Li, Max Q.-H. Meng
 
 Talks
 ======
-  
+CVPR 2024 Workshop (Image Matching Challenge 2024) [Image Matching Local Features and Beyond](https://www.youtube.com/watch?v=KG-_i12fU_A&t=14701s)
   
