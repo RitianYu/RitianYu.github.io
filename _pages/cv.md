@@ -22,6 +22,7 @@ Skills
 Publications
 ======
 Bidirectional Partial-to-Full Non-Rigid Point Set Registration with Non-Overlapping Filtering (IROS 2024, oral) 
+
 Hao Yu, Zhe Min, Mingyang Liu, Rui Song, Yibin Li, Max Q.-H. Meng
 
 Talks
