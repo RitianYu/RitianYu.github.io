@@ -29,7 +29,7 @@ NEWS
 
 **2023.1**: I got the First Prize of the 14th Mathematics Competition of Chinese College Students.
 
-**2022.10**: I was awarded First class of Shandong University Academic Award Scholarship (**7/285**).
+**2022.10**: I was awarded First Class of Shandong University Academic Award Scholarship (**7/285**).
 
 CONTACT
 ======
