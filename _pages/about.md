@@ -35,7 +35,7 @@ CONTACT
 ======
 **Github**: RitianYu
 
-**Email**: 15805598998@163.com | yu2365667746@gmail.com 
+**Email**: 15805598998@163.com or yu2365667746@gmail.com 
 
 **WeChat**: yh2365667746
 
