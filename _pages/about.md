@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Here is an academic personal websites for Hao Yu"
 author_profile: true
 redirect_from: 
   - /about/
