@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Here is an academic personal websites of Hao Yu"
+title: "Hao Yu (余昊)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a forth-year student from [Chongxin Honors School](https://github.com/CXXT-
 
 I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the key of CAD&CG, Zhejiang Univeristy. During my junior year at Shandong Univeristy, I collaborated with [Prof.Zhe Min](https://faculty.sdu.edu.cn/minzhe/zh_CN/index.htm). You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
 
-🎉NEWS
+🎉 NEWS
 ======
 - **2024.6:** One paper was accepted by IROS 2024 (first author) as **oral pitch presentation**.
 
@@ -31,7 +31,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 
 - **2022.10:** I was awarded First Class of Shandong University Academic Award Scholarship (**7/285**).
 
-✨CONTACT
+✨ CONTACT
 ======
 - **Github**: RitianYu
 
