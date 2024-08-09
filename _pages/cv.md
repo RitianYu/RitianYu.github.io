@@ -28,7 +28,7 @@ redirect_from:
 
 🎤 Talks
 ======
-CVPR 2024 Workshop [Image Matching Local Features and Beyond](https://www.youtube.com/watch?v=KG-_i12fU_A&t=14701s)
+- CVPR 2024 Workshop [Image Matching Local Features and Beyond](https://www.youtube.com/watch?v=KG-_i12fU_A&t=14701s)
 
 🏆 Awards
 ======
