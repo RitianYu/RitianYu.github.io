@@ -16,7 +16,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 - **2024.6:**
   - One paper was accepted by IROS 2024 (first author) as **oral pitch presentation**.
   - I was invited to give a talk for IMC 2024 at CVPR 2024 Workshop. You can find the talk at [here](https://www.youtube.com/watch?v=KG-_i12fU_A&t=14701s).
-  - We won the **gold medalist** for [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024). Solution is [here](https://www.kaggle.com/competitions/image-matching-challenge-2024/discussion/511291).
+  - We won the **Gold Medalist** for [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024). Solution is [here](https://www.kaggle.com/competitions/image-matching-challenge-2024/discussion/511291).
 
 - **2023.12:**
   - I interned at [ZJU-3DV](https://xzhou.me/), affiliated with the key lab of CAD&CG, Zhejiang Univeristy.
