@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Undergraduate at Shandong University
+* Intern at Zhejiang University (2023-2024) 
+* Undergraduate at Shandong University (2021-2025)
 
   
 Skills
@@ -21,9 +22,7 @@ Skills
 
 Publications
 ======
-**·**Bidirectional Partial-to-Full Non-Rigid Point Set Registration with Non-Overlapping Filtering (IROS 2024, oral) 
-
-Hao Yu, Zhe Min, Mingyang Liu, Rui Song, Yibin Li, Max Q.-H. Meng
+Bidirectional Partial-to-Full Non-Rigid Point Set Registration with Non-Overlapping Filtering (IROS 2024, oral) Hao Yu, Zhe Min, Mingyang Liu, Rui Song, Yibin Li, Max Q.-H. Meng
 
 Talks
 ======
