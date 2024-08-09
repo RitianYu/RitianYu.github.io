@@ -31,7 +31,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 
 **2022.10**: I was awarded First Class of Shandong University Academic Award Scholarship (**7/285**).
 
-🎉CONTACT
+✨CONTACT
 ======
 **Github**: RitianYu
 
