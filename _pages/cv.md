@@ -40,5 +40,5 @@ CVPR 2024 Workshop [Image Matching Local Features and Beyond](https://www.youtub
 
 - **Scholarship:**
   - **First Prize** of Shandong University Research and Innovation Excellence Scholarship
-  - **Second class** of Shandong University Academic Scholarship(3/24)
-  - **First class** of Shandong University Academic Scholarship(7/285)
+  - **Second Class** of Shandong University Academic Scholarship(3/24)
+  - **First Class** of Shandong University Academic Scholarship(7/285)
