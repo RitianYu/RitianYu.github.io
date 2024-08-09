@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Intern at Zhejiang University (2023-2024) 
-* Undergraduate at Shandong University (2021-2025)
+* Intern at the key lab of CAD&CG, Zhejiang University (2023-2024) 
+* Undergraduate at Information Science and Engineering Department, Shandong University (2021-2025)
 
   
 Skills
