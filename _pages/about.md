@@ -40,7 +40,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 
 - **Email**: 15805598998@163.com / yu2365667746@gmail.com 
 
-If you're interested in discussing topics related to 3D computer vision, particularly Image Matching, Structure from Motion (SfM), and 3D Gaussian Splatting, feel free to get in touch. I am always willing to share information and exchange ideas with others.
+If you're interested in discussing topics related to 3D computer vision, particularly Image Matching, Structure from Motion (SfM), and Point Tracking, feel free to get in touch. I am always willing to share information and exchange ideas with others.
 
 If you are an undergraduate student at Shandong University and are interested in the Chongxin Honors College, or if you are looking for a laboratory in China with a strong reputation in the field of 3D Vision (3DV), please feel free to contact me via email.
 
