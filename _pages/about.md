@@ -19,7 +19,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
   - We won the **Gold Medalist** for [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024). Solution is [here](https://www.kaggle.com/competitions/image-matching-challenge-2024/discussion/511291).
 
 - **2023.12:**
-  - I interned at [ZJU-3DV](https://xzhou.me/), affiliated with the State Key Lab of CAD&CG, Zhejiang Univeristy.
+  - I interned at [ZJU-3DV](https://xzhou.me/), collaborating with [Dr.Xingyi He](https://hxy-123.github.io/).
 
 - **2023.10:**
   - I was awarded the **First Prize** of Shandong University Research and Innovation Excellence Scholarship.
