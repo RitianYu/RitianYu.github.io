@@ -9,7 +9,7 @@ redirect_from:
 
 I am a forth-year student from [Chongxin Honors School](https://github.com/CXXT-Projects/CXXT-Projects.github.io), Shandong university, which is an elite program at SDU. My research interest lies in 3D Computer Vision and Robotics.
 
-I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the [key lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang Univeristy. During my junior year at Shandong Univeristy, I collaborated with [Prof.Zhe Min](https://faculty.sdu.edu.cn/minzhe/zh_CN/index.htm). You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
+I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang Univeristy. During my junior year at Shandong Univeristy, I collaborated with [Prof.Zhe Min](https://faculty.sdu.edu.cn/minzhe/zh_CN/index.htm). You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
 
 🎉 NEWS
 ======
