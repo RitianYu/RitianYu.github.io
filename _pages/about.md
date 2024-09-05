@@ -9,7 +9,7 @@ redirect_from:
 
 I am a forth-year student from [Chongxin Honors College](https://github.com/CXXT-Projects/CXXT-Projects.github.io), Shandong university, which is an elite program at SDU. My research interest lies in 3D Computer Vision and Robotics.
 
-I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang Univeristy. During my junior year at Shandong Univeristy, I collaborated with [Prof.Zhe Min](https://faculty.sdu.edu.cn/minzhe/zh_CN/index.htm). You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
+I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang Univeristy. You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
 
 🎉 NEWS
 ======
@@ -24,9 +24,6 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 - **2023.10:**
   - I was awarded the **First Prize** of Shandong University Research and Innovation Excellence Scholarship.
   - I was awarded the Second Class of Shandong University Academic Scholarship (**3/24**).
-
-- **2023.7:**
-  - I started my research about 3D computer vision at [Prof.Min's lab](https://faculty.sdu.edu.cn/minzhe/zh_CN/index.htm).
 
 - **2023.1:**
   - I got the **First Prize** of the 14th Mathematics Competition of Chinese College Students.
