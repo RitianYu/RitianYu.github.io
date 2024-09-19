@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year student from [Chongxin Honors College](https://github.com/CXXT-Projects/CXXT-Projects.github.io), Shandong university, which is an elite program at SDU. My research interest lies in 3D Computer Vision and Robotics.
+I am a forth-year student from [Chongxin Honors College](https://github.com/CXXT-Projects/CXXT-Projects.github.io), Shandong university, which is an elite program at SDU. My research interest lies in Computer Vision and Robotics.
 
 I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang Univeristy. You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
 
 🎉 NEWS
 ======
+- **2024.9:**
+  - I will join **Tencent Robotics X** as a research intern, supervied by [He Zhang](https://cghezhang.github.io) and [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/).
 - **2024.6:**
   - One paper was accepted by IROS 2024 (first author) as **oral pitch presentation**.
   - I was invited to give a [talk](https://www.youtube.com/watch?v=KG-_i12fU_A&t=14701s) for IMC 2024 at CVPR 2024 Workshop.
