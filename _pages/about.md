@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 🎉 NEWS
 ======
 - **2024.9:**
-  - I will join **Tencent Robotics X** as a research intern, supervied by [He Zhang](https://cghezhang.github.io) and [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/).
+  - I will join **Tencent Robotics X** as a research intern, supervied by [Dr.He Zhang](https://cghezhang.github.io) and [Prof.Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/).
 - **2024.6:**
   - One paper was accepted by IROS 2024 (first author) as **oral pitch presentation**.
   - I was invited to give a [talk](https://www.youtube.com/watch?v=KG-_i12fU_A&t=14701s) for IMC 2024 at CVPR 2024 Workshop.
