@@ -11,8 +11,9 @@ redirect_from:
 
 🎓 Education
 ======
-* Intern at the key lab of CAD&CG, Zhejiang University (2023-2024) 
-* Undergraduate at Information Science and Engineering Department, Shandong University (2021-2025)
+* Prospective graduate student at the State Key Lab of CAD&CG, Zhejiang University (2025)
+* Intern at Tencent Robotics X (2023 - present) 
+* Undergraduate at Information Science and Engineering Department, Shandong University (2021 - present)
 
 🔨 Skills
 ======
