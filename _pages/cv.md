@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 Education
 ======
-* Prospective Master Student at the State Key Lab of CAD&CG, Zhejiang University (2025)
+* Incoming Master Student at the State Key Lab of CAD&CG, Zhejiang University (2025)
 * Intern at Tencent Robotics X (2023 - present) 
 * Undergraduate at Information Science and Engineering Department, Shandong University (2021 - present)
 
@@ -40,6 +40,8 @@ redirect_from:
   - **Honorable Mention** of Mathematical Contest In Modeling
 
 - **Scholarship:**
-  - **First Prize** of Shandong University Research and Innovation Excellence Scholarship
-  - **Second Class** of Shandong University Academic Scholarship(3/24)
-  - **First Class** of Shandong University Academic Scholarship(7/285)
+  - **First Prize** of Shandong University Research and Innovation Excellence Scholarship (2024)
+  - **First Prize** of Shandong University Academic Scholarship (2024)
+  - **First Prize** of Shandong University Research and Innovation Excellence Scholarship (2023)
+  - **Second Class** of Shandong University Academic Scholarship (2023)
+  - **First Class** of Shandong University Academic Scholarship (2022)
