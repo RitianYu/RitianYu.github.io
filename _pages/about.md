@@ -29,5 +29,5 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 
 - **Email**: 15805598998@163.com / yu2365667746@gmail.com 
 
-- **Wechat**: yh2365667746 
+- **WeChat**: yh2365667746 
 
