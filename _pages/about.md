@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year student from Shandong university and an incoming master at Zhejiang University. My research interest lies in Computer Vision and Robotics.
+I am a forth-year student from Shandong university and an incoming master at Zhejiang University. My research interest lies in Robot Vision.
 
 I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and [Prof.Xiaowei Zhou](https://xzhou.me/) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang Univeristy. You can find my [CV](https://github.com/RitianYu/RitianYu.github.io/blob/master/files/个人简历.pdf) hear.
 
@@ -29,4 +29,5 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 
 - **Email**: 15805598998@163.com / yu2365667746@gmail.com 
 
+- **Wechat**: yh2365667746 
 
