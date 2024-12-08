@@ -27,7 +27,7 @@ I am very fortunate to be advised by [Prof.Sida Peng](https://pengsida.net/) and
 ======
 - **Github**: RitianYu
 
-- **Email**: 15805598998@163.com / yu2365667746@gmail.com 
+- **Email**: yu2365667746@gmail.com 
 
 - **WeChat**: yh2365667746 
 
