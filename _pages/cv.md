@@ -40,6 +40,7 @@ redirect_from:
   - **Honorable Mention** of Mathematical Contest In Modeling
 
 - **Scholarship:**
+  - **National Scholarship** （2024）
   - **First Prize** of Shandong University Research and Innovation Excellence Scholarship (2024)
   - **First Prize** of Shandong University Academic Scholarship (2024)
   - **First Prize** of Shandong University Research and Innovation Excellence Scholarship (2023)
